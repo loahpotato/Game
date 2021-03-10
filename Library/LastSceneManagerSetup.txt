@@ -1,0 +1,17 @@
+sceneSetups:
+- path: Assets/Scenes_lsy/lsy.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes_lsy/yyc.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes_lsy/Items.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes_lsy/Menu.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
